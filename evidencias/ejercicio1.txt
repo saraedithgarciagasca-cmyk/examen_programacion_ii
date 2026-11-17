@@ -16,16 +16,3 @@ Horas estacionadas: 6
 RECIBO DE ESTACIONAMIENTO
 Horas: 6
 Total a pagar: $60.00
-
-(.venv) PS C:\Users\196677-4\Downloads\examen_programacion_ii\examen_programacion_ii>                           
->> python ejercicio_2/main.py
-Número 1: 20
-Número 2: 8
-Resultado de la suma: 28
-Resultado de la resta: 12
-(.venv) PS C:\Users\196677-4\Downloads\examen_programacion_ii\examen_programacion_ii> 
->> python ejercicio_2/main.py
-Número 1: 15
-Número 2: 40
-Resultado de la suma: 55
-Resultado de la resta: -25 
