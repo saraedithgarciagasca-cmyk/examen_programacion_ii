@@ -6,7 +6,7 @@ class Estacionamiento(object):
         self.horas = horas
 
     def calcularPago(self):
-        # La tarifa del rango se aplica a TODAS las horas
+        
         if self.horas <= 2:
             tarifa = 15.00
         elif self.horas <= 5:
@@ -22,7 +22,7 @@ class Estacionamiento(object):
         print(f"Total a pagar: ${total:.2f}")
 
 
-# Programa principal
+# Programa principal  
 horas = 0
 while horas <= 0:
     try:

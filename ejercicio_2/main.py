@@ -14,7 +14,7 @@ class Operacion(object):
 
 
 class Resta(Operacion):
-    # No necesita __init__: hereda el de Operacion
+    
     def calcular(self):
         return self.numero1 - self.numero2
 
